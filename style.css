@@ -10,7 +10,7 @@ body  {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-   background: url(thumb-1920-1297318.jpg);
+   background: url(./thumb-1920-1297318.jpg);
    background-size: cover;
    background-position: center;
 }
